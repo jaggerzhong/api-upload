@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>APIUpload</id>
+    <name>Api-Upload</name>
+    <vendor email="jaggerzhong@foxmail.com"/>
+
+    <description><![CDATA[
+    a plugin is uploading http api information to api management<br>
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
